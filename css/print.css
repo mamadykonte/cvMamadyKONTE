@@ -1,0 +1,18 @@
+@import url("style.css");
+
+:root {
+  --primary: #6c6c6c;
+  --secondary: #000000;
+  --white: #000000;
+}
+
+title {
+  font-size: 2rem;
+}
+header {
+  display: none;
+}
+
+footer {
+  display: none;
+}
